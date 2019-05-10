@@ -129,7 +129,7 @@ div.main-container {
         text-decoration: none; }
     div.main-container div.post div.post-content {
       font-family: Merriweather, freight-text-pro, Georgia, Cambria, "Times New Roman", Times, serif;
-      font-size: 18px;
+      font-size: 16px;
       color: rgba(0, 0, 0, 0.8); }
       div.main-container div.post div.post-content a {
         background-position: 0px 23px; }
@@ -230,12 +230,12 @@ div.page-container {
     margin: 0 auto;
     text-align: left;
     font-family: Merriweather, freight-text-pro, Georgia, Cambria, "Times New Roman", Times, serif;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.5;
     padding: 20px; }
     @media screen and (min-width: 35.5em) {
       div.page-container div.entry-content {
-        font-size: 18px; } }
+        font-size: 16px; } }
   div.page-container footer {
     margin: 0 auto;
     text-align: left;
